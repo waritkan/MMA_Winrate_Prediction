@@ -1,1 +1,1 @@
-# UFC_Winrate_Prediction
+# UFC Fighter winrate prediction using linear regression
